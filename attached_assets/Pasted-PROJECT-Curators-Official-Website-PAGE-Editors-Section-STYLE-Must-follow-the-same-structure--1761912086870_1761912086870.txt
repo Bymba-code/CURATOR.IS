@@ -1,0 +1,95 @@
+PROJECT: Curators Official Website  
+PAGE: Editors Section  
+STYLE: Must follow the same structure, motion, and gallery feeling as Home, About, Community, and Championship pages.
+
+----------------------------------------------------
+STRUCTURE INSTRUCTIONS
+
+[HEADER BLOCK]  
+- Title: “EDITORS”  
+- Subtitle: “The artists behind the cut.”  
+- Background photo fades from dark to transparent when scrolling.  
+- Text animation: fade-in and rise (same as other pages).
+
+[INTRO PARAGRAPH]  
+“In Curators, editors are not just technicians — they are storytellers, craftsmen, and digital artists.  
+Each frame they create carries rhythm, emotion, and meaning.  
+This page honors those who shape the unseen stories of our generation.”
+
+[OVERVIEW BLOCK]  
+Heading: “The Spirit of a Curator”  
+Paragraph:  
+“Our editors redefine creativity in motion.  
+They work behind the screen, yet their impact reaches millions.  
+From short-form reels to cinematic storytelling, each editor builds art with precision, patience, and vision.”  
+
+Below text, add a horizontal scroll (carousel) or grid of editor cards showing profile photos, names, and level badges.  
+Each card links to the editor’s individual portfolio or social media (if added later).
+
+[FEATURED EDITORS BLOCK]  
+Divider line above heading.  
+Heading: “Featured Editors”  
+Layout: 2-column profiles (side by side on desktop, stacked on mobile).  
+Each profile section must include image, short quote, and description.
+
+Example structure:
+
+1️⃣ Editor 1 Example:  
+Photo placeholder (right-aligned).  
+Text (left side):  
+Name: **Temuulen Bat-Erdene**  
+Level: **Curator**  
+Quote: “Editing is the art of silence — where frames speak louder than words.”  
+Bio paragraph:  
+“Temuulen has mastered storytelling through short-form content.  
+His works blend emotion, rhythm, and modern trends, turning every project into an immersive experience.  
+With 200K+ total views, he represents the new generation of disciplined editors shaping Mongolia’s digital scene.”
+
+2️⃣ Editor 2 Example:  
+Photo placeholder (left-aligned).  
+Text (right side):  
+Name: **Ariunzul Enkhsaikhan**  
+Level: **Designer**  
+Quote: “Design is not what you see — it’s what you feel after watching.”  
+Bio paragraph:  
+“Ariunzul leads the motion and animation division of Curators.  
+Her style fuses motion design, minimalism, and cinematic cuts to create stories that move both the eye and the heart.  
+Her edits have been featured across multiple social campaigns and brand collaborations.”
+
+[STATISTICS BLOCK]  
+Centered section after featured editors.  
+Main line:  
+“+100 Active Editors | +2,500 Members | 50M+ Total Social Reach”  
+Subtext:  
+“Every cut is part of a collective masterpiece — each editor, a curator of the digital age.”
+
+[CTA BLOCK]  
+Final section, centered layout.  
+Text:  
+“Do you believe editing is more than just cutting clips? Join us. Become a curator.”  
+Buttons below:  
+1. Apply as Editor  
+2. Join Discord  
+
+----------------------------------------------------
+INTERACTION & FUNCTIONALITY  
+
+• Smooth scroll transition from menu item “Editors.”  
+• Fade-up animation for each section.  
+• Editor cards hover: slight zoom or gold line glow.  
+• Responsive layout for mobile and tablet.  
+• Consistent spacing and transition timing with previous pages.
+
+----------------------------------------------------
+BRAND CONTEXT FOR AGENT UNDERSTANDING  
+
+Curators is an exclusive editor and digital artist community.  
+This page showcases the core creative force — editors who define the movement.  
+Top editors’ profiles must feel cinematic, professional, and inspiring.  
+Tone remains noble, calm, and artistic — celebrating mastery and creativity.  
+
+----------------------------------------------------
+GOAL  
+
+Make the visitor feel respect and curiosity toward the editors.  
+Each profile should feel like a framed piece inside a digital museum — not a list of people, but a showcase of modern creators.

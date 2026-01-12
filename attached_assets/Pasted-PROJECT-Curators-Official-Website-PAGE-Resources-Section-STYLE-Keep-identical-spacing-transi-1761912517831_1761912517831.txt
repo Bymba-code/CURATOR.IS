@@ -1,0 +1,80 @@
+PROJECT: Curators Official Website  
+PAGE: Resources Section  
+STYLE: Keep identical spacing, transitions, and cinematic scroll flow as previous pages.
+
+----------------------------------------------------
+STRUCTURE INSTRUCTIONS
+
+[HEADER BLOCK]
+- Title: “RESOURCES”
+- Subtitle: “Tools and knowledge for the modern creator.”
+- Background fades from dark to transparent during scroll.
+- Smooth text fade-up animation.
+
+[INTRO PARAGRAPH]
+“In Curators, we believe creativity grows when shared.  
+This page is a living library — a place for editors to learn, explore, and elevate their craft.  
+From editing packs to mindset guides, everything here is designed to help you create with clarity and discipline.”
+
+[RESOURCE CATEGORY GRID]
+Heading: “Explore Our Creative Toolkit”
+4-category grid layout (2x2 on desktop, stacked on mobile).  
+Each block links to its own subpage or resource folder.
+
+1️⃣ **Learning**  
+“Video lessons, editing breakdowns, and storytelling tutorials — from beginner to master level.”  
+→ Button: “Watch Lessons”
+
+2️⃣ **Templates & Presets**  
+“Editing packs, overlays, and assets curated by our top editors.”  
+→ Button: “Download Packs”
+
+3️⃣ **Mindset & Growth**  
+“Guides about discipline, focus, and creative psychology — the mind behind the edit.”  
+→ Button: “Read Guides”
+
+4️⃣ **Community Tools**  
+“Access Discord job lists, collaboration channels, and editor challenges.”  
+→ Button: “Join the System”
+
+[FEATURED RESOURCE BLOCK]
+Heading: “Editor’s Starter Pack”
+Short paragraph:  
+“A curated collection of essential tools for every Curator — from LUTs and fonts to motion assets.  
+Available exclusively for registered members.”
+
+Below text: add “Download Starter Pack” button (connect to downloadable file later).
+
+[STATS BLOCK]
+Centered layout:
+“+100 Shared Editing Packs | +30 Tutorials | +5 Ongoing Challenges”
+Subtext: “Every resource is tested, crafted, and shared by real editors.”
+
+[CTA BLOCK]
+Centered text:
+“Create smarter. Learn faster. Edit beyond tools.”
+Buttons:
+1. Explore All
+2. Join Curators
+
+----------------------------------------------------
+INTERACTION & FUNCTIONALITY
+
+• Smooth scroll transitions for each section.  
+• Hover effect for resource cards (slight zoom).  
+• Responsive grid for mobile and desktop.  
+• Button hover glow consistent with brand motion.  
+• Ensure external download or embedded links work smoothly (open in new tab).
+
+----------------------------------------------------
+BRAND CONTEXT FOR AGENT UNDERSTANDING
+
+Curators Resources is the practical backbone of the movement — the bridge between inspiration and execution.  
+This section unites tutorials, packs, and digital learning materials from editors within the community.  
+Tone must remain calm, empowering, and thoughtful — like an artistic workspace, not a tech dashboard.
+
+----------------------------------------------------
+GOAL
+
+Make the visitor feel they’ve entered a sacred creative library — designed by artists, for artists.  
+The structure should invite curiosity, trust, and continuous exploration.

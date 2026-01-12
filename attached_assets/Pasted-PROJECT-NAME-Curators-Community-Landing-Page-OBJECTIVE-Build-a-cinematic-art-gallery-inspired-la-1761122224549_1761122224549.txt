@@ -1,0 +1,108 @@
+PROJECT NAME: Curators Community Landing Page
+
+OBJECTIVE:
+Build a cinematic, art-gallery-inspired landing page for “Curators” — a creative community for video editors, storytellers, and digital artists. The website should feel like stepping into a modern museum of digital creativity.
+
+-------------------------------------------------------
+🎨 BRANDING INFORMATION
+
+Brand Name: Curators
+Slogan: “Edit mind, not video.”
+Quote: “We dream our paint and we paint our dream.” — Vincent van Gogh
+Mission: Unite digital editors, storytellers, and creators to transform editing into artistic expression. Creativity cannot be taught; it must be discovered.
+
+Brand Voice:
+- Knowledgeable and noble (like an art curator)
+- Inspiring and thoughtful
+- Minimal, confident, and modern
+
+Core Values:
+1. Creativity First
+2. Support & Growth
+3. Respect & Professionalism
+4. Inclusivity
+5. Lifelong Learning
+
+-------------------------------------------------------
+🎨 VISUAL IDENTITY
+
+Colors:
+- Deep Navy Blue (#0B2545) → Backgrounds, main canvas
+- Warm Golden Yellow (#FFC857) → Accent, highlights, CTAs
+- Soft Gray (#E5E5E5) → Text and backgrounds
+- Rich Burgundy (#8B2E3B) → Accent lines, elegant separators
+
+Typography:
+- Headings: Playfair Display (serif, elegant)
+- Body: Inter or Lato (clean, readable)
+- Button/Highlight Font: Montserrat (all caps)
+
+Design Style:
+- Minimalist + flat design
+- Feels like entering an art museum
+- Thin gold lines, soft lighting gradients
+- Balanced asymmetry (modern luxury aesthetic)
+- Use of light and shadows to simulate gallery depth
+
+-------------------------------------------------------
+🏛 WEBSITE STRUCTURE
+
+1. HERO SECTION
+   - Large “CURATORS” centered title
+   - Below: slogan “Edit mind, not video.”
+   - Below that: quote “We dream our paint and we paint our dream.” — Vincent van Gogh
+   - Buttons: [JOIN COMMUNITY] [WATCH TRAILER]
+   - Cinematic background image (use placeholder of dark art gallery)
+   - Subtle motion: fade-in, gold glow hover effect on buttons
+
+2. GALLERY SECTION (scroll below hero)
+   - Visual of a dark wall with 6–9 rectangular golden frames
+   - Each frame = placeholder image (future editor portfolio)
+   - Hover effect → gentle zoom-in or glow
+   - Optional 3D parallax motion when scrolling (soft CSS)
+   - Frames arranged like a real museum wall
+
+3. ABOUT SECTION
+   - Title: “A gallery of creativity, discipline, and motion.”
+   - Paragraph:
+     “Curators is a creative movement uniting editors and storytellers to craft, connect, and inspire. We believe creativity is innate — discovered by the individual.”
+   - Subtle burgundy line divider below
+
+4. COMMUNITY SECTION
+   - Headline: “Where Creativity Meets Craft”
+   - Bullet list of benefits:
+     - Access exclusive tutorials, edit challenges & events
+     - Learn beyond tools — master creative thinking
+     - Collaborate with top editors and designers
+     - Monetize your creative skills
+   - Call to Action: [Join the Community]
+
+5. FOOTER
+   - Simple gold-on-navy layout
+   - Links: About | Community | Events | Contact
+   - Social Icons (Discord, Instagram, YouTube)
+   - Footer text: “Curators © 2025 — A Gallery of Modern Creativity”
+
+-------------------------------------------------------
+⚙️ DEVELOPMENT REQUIREMENTS
+
+- Technologies: HTML, CSS, and JavaScript only (no heavy frameworks)
+- Keep it lightweight, low CPU cost for Replit hosting
+- Add clear comments for each section for future upgrades
+- Responsive for desktop and mobile
+- Include smooth scroll animation (CSS or GSAP)
+- Prepare structure for optional 3D parallax effect (no Three.js yet)
+- Optimize load speed (compress images, lazy load gallery)
+
+-------------------------------------------------------
+🧠 BRAND FEEL & MESSAGE (for inspiration)
+Curators is not just a community — it’s a digital gallery where creativity meets discipline. Every editor is an artist, and every edit is a painting. The website should make visitors feel they’re walking through a modern museum of digital minds.
+
+-------------------------------------------------------
+OUTPUT:
+Provide complete HTML, CSS, and JavaScript files ready to host on Replit with folder structure:
+- index.html
+- styles.css
+- script.js
+- /assets (for images and icons)
+-------------------------------------------------------

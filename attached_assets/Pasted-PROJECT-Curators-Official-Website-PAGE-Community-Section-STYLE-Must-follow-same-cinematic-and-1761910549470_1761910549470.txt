@@ -1,0 +1,79 @@
+PROJECT: Curators Official Website  
+PAGE: Community Section  
+STYLE: Must follow same cinematic and artistic structure as homepage and about page.
+
+----------------------------------------------------
+STRUCTURE INSTRUCTIONS
+
+[HEADER BLOCK]
+- Title: “THE COMMUNITY”
+- Subtitle: “Where creativity becomes a craft.”
+- Background must fade from dark to transparent as user scrolls.
+- Texts appear with soft upward fade.
+
+[INTRO PARAGRAPH]
+“Curators is more than a network of editors — it’s a living gallery of creative minds.  
+Here, learning, collaboration, and discipline come together to shape the next generation of storytellers.”
+
+[LEVELS BLOCK]
+Divider line before heading.  
+Heading: “Five Levels of Editors”  
+Layout: 2 columns (desktop) / stacked (mobile)
+
+Left column:
+“Our structure defines growth. Every level represents a deeper understanding of visual storytelling — from first edit to artistic mastery.”
+
+Right column (list of levels):
+1. Overlayer – Beginner editors learning rhythm and timing.  
+2. Editor – Edits using simple apps with clarity and purpose.  
+3. Curator – Advanced short-form editor mastering story and flow.  
+4. Composer – Long-form, complex edits blending emotion and pace.  
+5. Designer – Animation, motion graphics, and artistic visual identity.
+
+[FEATURE BLOCK]
+Divider line above heading.  
+Heading: “What Members Gain”  
+Subheading: “Inside the Curators ecosystem.”
+4-block layout, each block with icon and short description.
+
+- Learn & Grow — Exclusive courses, workshops, and live mentorship.  
+- Collaborate — Partner with editors, creators, and influencers.  
+- Earn — Access client jobs and monetization systems.  
+- Showcase — Participate in challenges like the Short Editing Championship.
+
+[STATISTICS BLOCK]
+Centered line with main numbers:
+“2,500+ Members | 100+ Active Editors | 50M+ Total Reach”
+
+Subtext:
+“A digital nation of editors — connected through Discord, bonded through creation.”
+
+[CTA BLOCK]
+Centered block at the end.
+Text: “Join our movement. Edit your mind. Curate your craft.”
+Two buttons below text:
+1. Join Community
+2. Learn More
+
+----------------------------------------------------
+INTERACTION & FUNCTIONALITY
+
+• Smooth scroll transition when user clicks “Community” in the menu.  
+• Each section animates in with fade-up effect while scrolling.  
+• Hover animation for buttons (soft glow).  
+• Responsive for mobile and desktop.  
+• Keep consistency with About and Home page structure — same spacing, movement, and pacing.
+
+----------------------------------------------------
+BRAND CONTEXT FOR AGENT UNDERSTANDING
+
+Curators is a creative movement uniting editors, designers, and digital storytellers worldwide.  
+We help creators grow from beginner to master level through education, collaboration, and community.  
+The community is the foundation of our creative ecosystem, offering courses, competitions, and real job opportunities.  
+Tone must remain noble, calm, inspiring, and artistic.
+
+----------------------------------------------------
+GOAL
+
+Make visitors feel they are walking into the inner circle of modern creators.  
+Every section must look and feel like part of a digital art gallery dedicated to the craft of editing.

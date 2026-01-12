@@ -1,0 +1,74 @@
+PROJECT: Curators Official Website  
+PAGE: Contact Section  
+STYLE: Maintain the same structure as other pages — cinematic minimalism, slow fade transitions, and subtle glow animations.  
+Background: Blade Runner–inspired night city photo with a slight dark gradient overlay.  
+
+----------------------------------------------------
+STRUCTURE INSTRUCTIONS
+
+[HEADER BLOCK]
+- Title: “CONTACT”
+- Subtitle: “You look lonely. I can fix that.”  
+  (Subtitle must appear softly with a fade-in animation, evoking cinematic emotion.)
+- When user scrolls, background slowly fades into darker shade at the bottom to create depth.
+
+----------------------------------------------------
+[INTRO PARAGRAPH]
+“Even creators need connection.  
+Curators exists so you don’t have to build alone.  
+Write to us, share your vision, or simply say hello —  
+because creativity grows stronger together.”
+
+----------------------------------------------------
+[CONTACT FORM BLOCK]
+- Title: “Send Us a Message”
+- Fields:
+  1️⃣ Full Name  
+  2️⃣ Email Address  
+  3️⃣ Subject (Dropdown: “Collaboration”, “Partnership”, “Event”, “Support”, “Other”)  
+  4️⃣ Message Box  
+- Submit button with hover glow and ripple animation.
+- After submission → success message: “Message received. A fellow curator will reach out soon.”
+
+----------------------------------------------------
+[DIRECT CONTACT INFO BLOCK]
+Heading: “Connect Directly”
+Three info columns or stacked vertically on mobile:
+
+📩 **Email**  
+hello@curators.mn  
+
+💬 **Discord Community**  
+discord.gg/curators  
+
+📍 **Location**  
+Ulaanbaatar, Mongolia  
+“Global creators. Local roots.”
+
+----------------------------------------------------
+[TEAM CONNECTIONS BLOCK]
+Heading: “Core Team Channels”
+
+• **Editors Department:** editors@curators.mn  
+• **Community Growth:** community@curators.mn  
+• **Partnerships & Media:** partners@curators.mn
+
+----------------------------------------------------
+[CTA BLOCK]
+Centered text:
+“Let’s build something timeless.”  
+Buttons:  
+1️⃣ “Become a Partner” → links to Partners page  
+2️⃣ “Join Our Community” → links to Discord invite
+
+----------------------------------------------------
+[FOOTER HIGHLIGHT]
+“Curators — Gallery of Modern Creators”  
+© Curators 2025. All Rights Reserved.
+
+----------------------------------------------------
+MOOD & DIRECTION
+
+The entire page must feel like entering a cinematic gallery at night — quiet, emotional, and human.  
+The “You look lonely, I can fix that” line is not romantic; it symbolizes creative connection — where isolation meets community.  
+Typography and spacing should enhance the poetic tone.

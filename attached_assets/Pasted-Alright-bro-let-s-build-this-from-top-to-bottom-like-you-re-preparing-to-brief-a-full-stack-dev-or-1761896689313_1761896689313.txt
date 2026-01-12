@@ -1,0 +1,196 @@
+Alright bro — let’s build this from top to bottom like you’re preparing to brief a full-stack dev or AI agent to code the entire Curators website system, not just a landing page.
+We’ll go section by section to decide menus, info structure, and content goals.
+
+
+---
+
+🧭 1. Main Navigation Menu (Hamburger + Header)
+
+Your top bar should make visitors instantly understand:
+“This is a creative movement + professional hub for editors.”
+
+Main Menus:
+
+1. Home — cinematic landing page
+Purpose: set emotion & vision (what Curators is)
+
+
+2. About — your story, mission, and philosophy
+Include: “We dream our paint…” quote, “Edit mind, not video” ethos, founding story, movement purpose
+
+
+3. Championship — the Short Editing Championship page
+Include: details, registration link, rules, past champions, video highlights
+
+
+4. Community — all about your Discord & members
+Include: membership tiers, benefits, culture, testimonials
+
+
+5. Store — monetization hub
+Include: merch, editor packs, tools, subscription plan links
+
+
+6. Events — upcoming meetups, past event galleries, sponsor recap
+
+
+7. Partners — sponsor brands, collaborations, funders, supporters
+
+
+8. Join Us / Login — CTA for both new and returning members
+
+
+
+
+---
+
+🏛️ 2. Core Website Sections (Home Page Scroll Layout)
+
+Every section connects art + digital craft.
+
+1. Hero (Gallery Entrance)
+
+Cinematic hero like the one you made:
+“Welcome to Curators — A Gallery of Creativity, Discipline, and Motion.”
+Buttons: [Join Community] [Watch Trailer]
+
+
+
+2. Vision / Quote Section
+
+Full-screen parallax panel with van Gogh quote:
+“We dream our paint and we paint our dream.”
+
+Overlay subtle light like a gallery spotlight.
+
+
+
+3. Community Showcase (The Frames Wall)
+
+3x3 or 4x4 golden frames showing editor works.
+
+Hover effect: name, project, “view edit.”
+
+Future dynamic integration with Discord content feed.
+
+
+
+4. Join the Movement Section
+
+Text: “Join 2700+ editors shaping the future of creative editing.”
+
+3 pillars: Learn | Connect | Build
+
+CTA: [Join Discord] [Become a Member]
+
+
+
+5. Events & Challenges
+
+Feature the Short Editing Championship:
+Dates, rules, prizes, sponsors, video reel.
+
+
+
+6. Merch & Editor Tools
+
+Shop preview grid: bracelets, hoodies, editing tablets, exclusive packs.
+
+“For creators who craft both mind and motion.”
+
+
+
+7. Partner Wall
+
+Logos and links to sponsor brands (scroll animation).
+
+Text: “Trusted by creative leaders.”
+
+
+
+8. Footer (Art Gallery Exit)
+
+Navigation + social media
+
+Quote: “Edit mind, not video.”
+
+“Curators © 2025 — Built by creators, for creators.”
+
+
+
+
+
+---
+
+💡 3. Must-Have Info Pages
+
+Section	Description	Key Goal
+
+About	Explains Curators’ origin, mission, and philosophy	Emotional trust
+Membership	Explains subscription, rewards, benefits	Conversion
+Championship	Full detail on the event, voting, sponsors	Engagement
+Partners	Highlights sponsors, funders, collabs	Credibility
+Jobs / Collabs	Editors can find paid gigs	Utility
+Contact	Inquiry form, email, Discord link	Access
+News / Blog (later)	Announcements, editor highlights	SEO & growth
+
+
+
+---
+
+💰 4. Monetization-Linked Pages
+
+Membership Page → direct link to QPay or Stripe alternative
+
+Shop Page → Merch + Editor Packs
+
+Event Page → Paid ticket links
+
+Partner Page → Sponsorship form + analytics deck
+
+
+
+---
+
+🎨 5. Design/UX Experience Goals
+
+When user scrolls → transitions feel like walking through rooms in a museum
+
+Each section = “gallery room” (with warm lighting + text plaque)
+
+Background ambient motion (slow vignette or spotlight glow)
+
+Minimal text, cinematic type spacing
+
+Hover = light follows mouse like spotlight
+
+
+
+---
+
+🧠 6. Info the Agent Must Know to Build Site Correctly
+
+Curators = Editor & Video Creator Community (2700+ members)
+
+Hosts Short Editing Championship (8–10th month annually)
+
+Offers subscription memberships, editor packs, merch, and partner collaborations
+
+Runs events in collaboration with sponsors and creative brands
+
+Mission: to turn editing into an art form
+
+Branding keywords: “Discipline,” “Creativity,” “Motion,” “Gallery,” “Mind Editing”
+
+Tone: cinematic, intelligent, modern, minimalist
+
+Platforms connected: Discord, Instagram, YouTube
+
+Payment systems: QPay (local) + Stripe (future)
+
+
+
+---
+
+Would you like me to now combine this entire brainstorm into a Replit Agent Prompt v2 (Full Website Build Prompt) —
+so it can create your real Curators website with menu, multiple pages, hamburger navigation, and branding system all in one?

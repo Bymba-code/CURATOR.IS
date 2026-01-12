@@ -1,0 +1,89 @@
+PROJECT: Curators Official Website  
+PAGE: Championship Section  
+STYLE: Must follow same gallery-like structure and cinematic flow as Home, About, and Community sections.
+
+----------------------------------------------------
+STRUCTURE INSTRUCTIONS
+
+[HEADER BLOCK]  
+- Title: “SHORT EDITING CHAMPIONSHIP”  
+- Subtitle: “Where editors become legends.”  
+- Background must fade from dark to transparent as user scrolls.  
+- Smooth text fade-in animation.
+
+[INTRO PARAGRAPH]  
+“The Short Editing Championship is Mongolia’s first national creative battle for editors — a stage where discipline meets imagination.  
+Each participant transforms raw clips into storytelling art. The goal is not only to edit videos but to edit minds.”
+
+[OVERVIEW BLOCK]  
+Heading: “About the Championship”  
+Body:  
+“This three-round competition brings together over 100 editors from across the country.  
+Each round tests creativity, storytelling, and technique.  
+Judged by expert editors and public votes, this event represents a new movement for Mongolian digital culture.”
+
+[ROUND STRUCTURE BLOCK]  
+Divider line above heading.  
+Heading: “Competition Format”  
+Use 3 columns or stacked layout.  
+
+Round 1 — Concept & Cut  
+‘Editors receive identical source footage and must create a short (≤ 30 s) edit expressing emotion and rhythm.’  
+
+Round 2 — Story & Sound  
+‘Participants remix given materials with music and sound design, creating narrative cohesion.’  
+
+Round 3 — Final Masterpiece  
+‘Top 20 editors deliver their final version — judged for originality, flow, and audience impact.’  
+
+[AWARDS BLOCK]  
+Heading: “Champions & Recognition”  
+Subheading: “Two titles — One vision.”  
+
+- **Expert Champion** — chosen by professional editors and judges.  
+- **Fan Champion** — voted by the community on Discord and social platforms.  
+
+Quote block beneath:  
+“True victory belongs to those who edit with soul.”  
+
+[IMPACT BLOCK]  
+Heading: “Why It Matters”  
+Paragraph:  
+“This championship is more than competition — it’s cultural evolution.  
+We aim to ignite a generation of creative editors who represent Mongolia globally.  
+Our last events reached 50 million+ people online and inspired thousands to begin editing.”  
+
+[SPONSOR & PARTNER BLOCK]  
+Heading: “Partners & Supporters”  
+Paragraph:  
+“Curators collaborates with brands and foundations to empower young talent and spread creative culture.  
+Partnership opportunities include co-branding, content sponsorship, and mentorship programs.”  
+
+[CTA BLOCK]  
+Centered text:  
+“Join the movement. Create your edit. Inspire a generation.”  
+Buttons:  
+1. Register Now  
+2. Become a Partner  
+
+----------------------------------------------------
+INTERACTION & FUNCTIONALITY  
+
+• Smooth scroll transition when user clicks “Championship” in menu.  
+• Each block fades and rises into view while scrolling.  
+• Hover animations for buttons and links (glow effect).  
+• Responsive for mobile and desktop.  
+• Maintain same motion speed and visual spacing as previous pages.  
+
+----------------------------------------------------
+BRAND CONTEXT FOR AGENT UNDERSTANDING  
+
+Curators is a creative movement uniting digital editors and storytellers.  
+The Short Editing Championship is our annual flagship event celebrating the power of editing and youth creativity.  
+Tone must remain inspiring, noble, and artistic — less like a competition, more like a modern renaissance of editing.  
+
+----------------------------------------------------
+GOAL  
+
+The page must make the visitor feel the weight and glory of creation — like standing inside a gallery where each video frame is a masterpiece.  
+It should inspire editors to register and brands to collaborate instantly.

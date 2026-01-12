@@ -1,0 +1,88 @@
+PROJECT: Curators Official Website
+PAGE: About Section
+STYLE: Cinematic, art-gallery aesthetic — consistent with main homepage (angel statue hero).
+
+----------------------------------------------------
+🎨 VISUAL DESIGN INSTRUCTIONS
+
+• Use the new background photo provided by user for this section (dark-toned art gallery image).
+• Apply a dark navy overlay (#0B2545) at top → fade to transparent bottom.
+• As the user scrolls, the background photo fades smoothly to black (CSS scroll-opacity transition).
+• Typography follows brand style:
+   - Title font: Playfair Display (serif)
+   - Body font: Inter (sans-serif)
+   - Headings: gold (#FFC857)
+   - Paragraph text: soft gray (#E5E5E5)
+• Minimalist layout — wide spacing, calm balance.
+• Scroll-based fade-in for each paragraph.
+• Mobile responsive.
+
+----------------------------------------------------
+🧭 SECTION STRUCTURE
+
+[HEADER SECTION]
+- Fullscreen background (gallery photo)
+- Centered title: CURATORS (same size and font as homepage)
+- Subtitle: “Gallery of Modern Creators” — directly below title, same font as homepage slogan.
+- Background fades at bottom; title and subtitle stay fixed while scrolling down transitions to content.
+
+[ABOUT BODY SECTION]
+Background: solid deep navy (#0B2545)
+Text fade-in sequentially as the user scrolls.
+
+Paragraph 1:
+“Curators began as a small creative circle that believed editing is more than cutting videos — it’s the art of shaping how people see the world.  
+Today, we are a growing community of 2,500 creators united under one vision: to turn creativity into discipline, and discipline into legacy.”
+
+Paragraph 2:
+“Our mission is to empower creators to discover the artist within — not through tools, but through mindset.  
+We unite editors, designers, and storytellers to build a new creative culture where art, technology, and purpose merge.”
+
+Quote Block (center-aligned):
+“We dream our paint and we paint our dream.” — Vincent van Gogh
+
+Paragraph 3 (Impact section):
+“Since our founding, Curators has organized two major creative events — including the Short Editing Championship — inspiring a new wave of young editors.  
+Together, our members have reached over 50 million people across all social platforms.”
+
+Community Stats (2-column layout):
+Left Column:
+- 100+ active editors  
+- 2,500+ Discord members  
+Right Column:
+- 2 events organized  
+- 50M+ total reach  
+
+[CTA BLOCK]
+Centered golden divider line.
+Text: “If you believe creativity can change the world — you belong here.”
+Buttons:
+1. Join Community
+2. Watch Trailer
+(Use gold border + subtle hover glow #FFC857)
+
+----------------------------------------------------
+🧠 INTERACTION LOGIC
+
+• When user clicks “About” from hamburger menu, smooth-scroll transition from homepage to this section.  
+• Use fade-in/fade-out animation for background photo and text.  
+• Maintain same motion language as home page: slow, elegant, cinematic feel.  
+• Keep total load light and optimized (CSS-only transitions, no heavy JS).  
+• Ensure visual continuity — color palette and fonts must match home section perfectly.
+
+----------------------------------------------------
+📜 BRAND CONTEXT (for Agent understanding)
+
+Curators is a creative movement uniting editors and digital storytellers who shape the future of visual art.  
+We believe creativity is innate, discovered through discipline.  
+Our community’s motto: “Edit mind, not video.”  
+Tone: noble, calm, inspiring, like walking through a digital museum.  
+Primary color: #0B2545 (Deep Navy)  
+Accent: #FFC857 (Warm Gold)  
+Secondary: #E5E5E5 (Soft Gray)
+Optional: #8B2E3B (Rich Burgundy — subtle highlights)
+
+----------------------------------------------------
+GOAL:
+To make the user feel like they’ve entered an art museum dedicated to digital creativity.  
+Not a company page — a movement page.
